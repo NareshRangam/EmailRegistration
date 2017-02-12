@@ -7,7 +7,7 @@
 <title>Email Activation</title>
 </head>
 <body>
-<center><h1>Register New Account Via Email Activation Link</h1></center>
+<center><h1>Register modified New Account Via Email Activation Link</h1></center>
 <center><a href="registerform">Register New Account</a></center><br>
 <center><a href="listUserAccounts">User Accounts List</a></center>
 </body>
