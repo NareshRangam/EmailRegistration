@@ -52,6 +52,7 @@ public class RegisterController implements Serializable, Cloneable {
 			 * System.out.println(user.getLastname());
 			 * System.out.println(user.getEmail());
 			 * System.out.println(user.getPassword());
+			 * tesing the register controller outputs
 			 */
 
 			userDao.saveUser(user);
